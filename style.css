@@ -1,0 +1,55 @@
+
+.logo{
+  width: 180px;
+  border-radius: 50%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.backgroud{
+  width: auto;
+  height: auto;
+}
+
+
+.column{
+  float: left;
+  width: 50%;
+}
+
+h1{
+  padding-left: 15px;
+  color: white;
+}
+
+h2{
+  color:white;
+  padding-left: 15px;
+}
+
+.video{
+  display: flex;
+  margin-top: 30px;
+}
+
+.card{
+  padding-left:15px;
+  display: flex;
+}
+
+.card-text {
+  color: white;
+  display: flex;
+}
+
+.Pic{
+  padding:10px;
+  display: flex;
+}
+
+.button{
+  width: 200px;
+  height: 80px;
+  padding: 20px;
+  display: flex;
+}
